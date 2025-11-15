@@ -31,6 +31,17 @@ Microservices • High Availability • Observability
 
 # 🧠 **Projects & Systems I've Built**
 
+### 🧾 Slip Verify — Slip Verification Platform  
+**URL:** https://checkslip.onesiamsoft.com  
+
+A production-ready slip verification platform for Thai businesses.  
+I built the backend and system architecture using Go and PostgreSQL, integrated bank slip validation logic, and designed APIs for merchants to automate slip checking.  
+The platform includes:
+- Web-based dashboard for managing transactions and reports  
+- Slip verification workflow to reduce fake/duplicate slips  
+- Pricing & subscription model for SMEs and enterprises  
+- Secure infrastructure with API authentication and logging  
+
 ## 🔐 Security & Protection
 - **Anti-Tamper / Anti-Cheat SDK**  
   Protects software from reverse engineering, debugging, and cracking.
