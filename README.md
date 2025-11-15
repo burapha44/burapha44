@@ -166,8 +166,7 @@ We build production-ready systems for startups and enterprises.
 We focus on **Security • Clean Architecture • High Performance • Innovation**.
 
 📧 Email: **burapha44@icloud.com**  
-📞 Phone: **095-330-3688**  
-🌐 Website: _coming soon…_
+📞 Phone: **080-307-7677**
 
 ---
 
