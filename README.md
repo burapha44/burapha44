@@ -2,10 +2,7 @@
 ### 💻 CEO & Full-Stack Developer | Founder @ Nevilsoft (Thailand)
 
 Welcome to my GitHub!  
-I'm a passionate full-stack developer and founder of **Nevilsoft**, specializing in building secure, scalable, and high-performance systems.  
-I create everything from **payment systems**, **security frameworks**, **complex backend architectures**, to **production-ready mobile ecosystems**.
-
-I build fast. I build secure. I build things that scale. 🚀
+I am a full-stack developer and the founder of Nevilsoft, with experience in building modern web applications, backend systems, and secure infrastructures. I work across the entire development stack—from system design, backend APIs, and databases to front-end interfaces and DevOps. I focus on creating reliable, maintainable, and scalable solutions that solve real problems for users and businesses.
 
 ---
 
