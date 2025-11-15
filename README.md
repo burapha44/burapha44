@@ -6,6 +6,15 @@ I am a full-stack developer and the founder of Nevilsoft, with experience in bui
 
 ---
 
+## 🎓 Education
+
+Non-Formal Education (กศน.) — Thailand
+
+Completed equivalent high-school level through Thailand’s Non-Formal and Informal Education (NFE) program.
+During this period, I focused on self-learning in software development, system design, and technology, which later became the foundation of my work as a full-stack developer and founder of Nevilsoft.
+
+---
+
 ## 🚀 Tech Stack & Expertise
 
 ### **Languages**
